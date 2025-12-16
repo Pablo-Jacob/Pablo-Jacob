@@ -10,7 +10,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-💻 I am a Systems Engineering and Computer Science student, currently in my sixth semester. I am passionate about programming and constantly strive to improve my skills. I am focusing on back-end development and have knowledge in C, C++, Java, Python, Node.ja and MySQL. I am interested in continuing to learn, participating in challenging projects, and contributing efficient solutions through code.
+💻 I am a Systems Engineering and Computer Science student, currently in my sixth semester. I am passionate about programming and constantly strive to improve my skills. I am focusing on back-end development and have knowledge in C, C++, Java, Python, Node.js and MySQL. I am interested in continuing to learn, participating in challenging projects, and contributing efficient solutions through code.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
